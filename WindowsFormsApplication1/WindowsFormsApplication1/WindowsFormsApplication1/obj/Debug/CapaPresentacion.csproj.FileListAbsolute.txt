@@ -1,0 +1,26 @@
+C:\Users\JesusVasquez\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\JesusVasquez\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\JesusVasquez\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\JesusVasquez\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CapaNegocio.dll
+C:\Users\JesusVasquez\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\mscorlib.dll
+C:\Users\JesusVasquez\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CapaDatos.dll
+C:\Users\JesusVasquez\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CapaNegocio.pdb
+C:\Users\JesusVasquez\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CapaDatos.pdb
+C:\Users\JesusVasquez\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\es\mscorlib.resources.dll
+C:\Users\JesusVasquez\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\normidna.nlp
+C:\Users\JesusVasquez\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\normnfc.nlp
+C:\Users\JesusVasquez\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\normnfd.nlp
+C:\Users\JesusVasquez\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\normnfkc.nlp
+C:\Users\JesusVasquez\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\normnfkd.nlp
+C:\Users\JesusVasquez\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\JesusVasquez\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MantenimientoProductos.resources
+C:\Users\JesusVasquez\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\JesusVasquez\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\JesusVasquez\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FormPrincipal.resources
+C:\Users\JesusVasquez\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\JesusVasquez\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\JesusVasquez\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\JesusVasquez\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\danie\OneDrive\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\danie\OneDrive\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\danie\OneDrive\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
